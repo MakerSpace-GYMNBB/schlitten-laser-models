@@ -6,5 +6,5 @@
 
 
 
-Alle übrigen Datein, sind die einzelnen Bauteile des Schlittens
+- Alle übrigen Datein, sind die einzelnen Bauteile des Schlittens
 
