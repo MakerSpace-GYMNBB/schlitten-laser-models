@@ -1,7 +1,5 @@
-- ignoriere "wimmer_schlitten.svg"
-
-- "for production" enthält die gesamte standard Platte zum lasern
-- "all" enthält den einzelnen standard Schlitten zum lasern
+- "for_production.svg.svg" enthält die gesamte standard Platte zum lasern
+- "all.svg" enthält den einzelnen standard Schlitten zum lasern
 
 - "wimmer_for_production.svg" enthält gesamte Platte zum lasern angepast an die Wimmer Bestellung
 - "wimmer_schlitten.svg" enthält den einzelnen Schlitten angepasst an die Wimmer Bestellung
