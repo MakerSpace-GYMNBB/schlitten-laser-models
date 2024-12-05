@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Fusion 360, Shaper Origin Export Add-In, Version 1.8.0  -->
+
+<svg
+   shaper:fusionaddin="version:1.8.0"
+   width="1cm"
+   height="0.3cm"
+   version="1.1"
+   x="0cm"
+   y="0cm"
+   viewBox="0 0 1 0.3"
+   enable-background="new 0 0 1 0.3"
+   xml:space="preserve"
+   id="svg1"
+   sodipodi:docname="halter_große.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:shaper="http://www.shapertools.com/namespaces/shaper"><defs
+     id="defs1" /><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="cm"
+     inkscape:zoom="11.58875"
+     inkscape:cx="18.897638"
+     inkscape:cy="5.6951785"
+     inkscape:window-width="1344"
+     inkscape:window-height="449"
+     inkscape:window-x="0"
+     inkscape:window-y="37"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1" /><path
+     d="M-0.5,-0.15 L0.5,-0.15 0.5,0.15 -0.5,0.15 -0.5,-0.15z"
+     transform="matrix(1,0,0,-1,0.5,0.15)"
+     fill="rgb(0,0,0)"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     id="path1"
+     style="fill:none;stroke:#ff0000;stroke-opacity:1;stroke-width:0.001;stroke-dasharray:none" /></svg>
